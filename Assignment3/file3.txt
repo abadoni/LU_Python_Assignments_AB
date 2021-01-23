@@ -1,0 +1,2 @@
+This content is in File1.
+This is in File2.
